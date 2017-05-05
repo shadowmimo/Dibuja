@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4388763980715"
+    token="-2356756543420036111"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="431" />
+    <task
+        name="instant-run-dex"
+        duration="475" />
+    <task
+        name="instant-run-transform"
+        duration="125" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="E:\Lab\Dibuja\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="1202816392637"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3226309080192"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3226309080192\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3621808590732"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3621808590732\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3721406411560"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3721406411560\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3813564773183"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3813564773183\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3834148736571"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3834148736571\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3892379440963"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3892379440963\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3968960354079"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\3968960354079\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4005229044398"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\4005229044398\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4219428395557"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\builds\debug\4219428395557\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4388763980715"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Lab\Dibuja\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
